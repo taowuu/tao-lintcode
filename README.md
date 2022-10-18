@@ -1,2 +1,2 @@
-# tao-py-lintcode
+# tao-lintcode
  
