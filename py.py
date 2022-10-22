@@ -8,7 +8,7 @@ class Solution:
         # 边界判断
         if not a or len(a) == 0:
             return
-        # 新数组存放结果
+        # 临时数组存放结果
         temp = []
         mergeSort(a, 0, len(a) - 1, temp)
     
@@ -18,9 +18,27 @@ class Solution:
             return
         
         # 分别排序
-        slef.merge_sort(a, start, (start + end) / 2, temp)
-        slef.merge_sort(a, (start + end) / 2 + 1, end, temp)
+        self.merge_sort(a, start, (start + end) / 2, temp)
+        self.merge_sort(a, (start + end) / 2 + 1, end, temp)
         # 合并
-        slef.merge(a, start, start, (start + end) / 2, end, temp)
-        # 
+        self.merge(a, start, end, temp)
+
+    def merge(self, start, end, temp):
+        # 定义分块的左右起点
+        middle = (start + end) / 2 + 1
+        left_index = start
+        right_index = middle + 1
+        # 临时数组的起点
+        index = left_index
+        对两分块分别取值排序
+        while left_index <= middle and right_index <= end:
+            if a[left_index] < a[right_index]:
+                temp[index] = a[left_index]
+                index += 1
+                left_index += 1
+            else:
+                temp[index] = a[right_index]
+                index += 1
+                right_index += 1
+
 
