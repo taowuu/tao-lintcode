@@ -12,7 +12,7 @@
 - [56 · 两数之和](https://github.com/taowuu/tao-lintcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8/56%20%C2%B7%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
 ## 快速排序
-- [463 · 整数排序](https://github.com/taowuu/tao-lintcode/blob/main/%E5%8F%8D%E5%90%91%E5%8F%8C%E6%8C%87%E9%92%88/463%20%C2%B7%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F.md)
+- [463 · 整数排序](https://github.com/taowuu/tao-lintcode/blob/main/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/463%20%C2%B7%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F.md)
 
 ## 归并排序
-- [463 · 整数排序](https://github.com/taowuu/tao-lintcode/blob/main/%E5%8F%8D%E5%90%91%E5%8F%8C%E6%8C%87%E9%92%88/463%20%C2%B7%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F.md)
+- [463 · 整数排序](https://github.com/taowuu/tao-lintcode/blob/main/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/463%20%C2%B7%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F.md)
