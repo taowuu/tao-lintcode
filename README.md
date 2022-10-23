@@ -18,4 +18,6 @@
 - [463 · 整数排序](https://github.com/taowuu/tao-lintcode/blob/main/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/463%20%C2%B7%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F.md)
 
 ## 快速选择
-- [5 · 第k大元素]()
+- [5 · 第k大元素](https://github.com/taowuu/tao-lintcode/blob/main/%E5%BF%AB%E9%80%9F%E9%80%89%E6%8B%A9/5%20%C2%B7%20%E7%AC%ACk%E5%A4%A7%E5%85%83%E7%B4%A0.md)
+
+## 
