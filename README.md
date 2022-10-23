@@ -16,3 +16,6 @@
 
 ## 归并排序
 - [463 · 整数排序](https://github.com/taowuu/tao-lintcode/blob/main/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/463%20%C2%B7%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F.md)
+
+## 快速选择
+- [5 · 第k大元素]()
