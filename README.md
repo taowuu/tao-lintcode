@@ -20,4 +20,5 @@
 ## 快速选择
 - [5 · 第k大元素](https://github.com/taowuu/tao-lintcode/blob/main/%E5%BF%AB%E9%80%9F%E9%80%89%E6%8B%A9/5%20%C2%B7%20%E7%AC%ACk%E5%A4%A7%E5%85%83%E7%B4%A0.md)
 
-## 
+## 二分查找
+- [457 · 经典二分查找问题](https://github.com/taowuu/tao-lintcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/457%20%C2%B7%20%E7%BB%8F%E5%85%B8%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E9%97%AE%E9%A2%98.md)
