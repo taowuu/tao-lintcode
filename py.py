@@ -1,26 +1,22 @@
-class Solution:
-    """
-    @param nums: An integer array sorted in ascending order
-    @param target: An integer
-    @return: An integer
-    """
-    def findPosition(self, nums, target):
-        # write your code here
-        # 递归二分
-        return self.binary_search(nums, 0, len(nums) - 1, target)
+# 在前 1 个数组中查找
+range_total = 1
+# 查找范围倍增
+while reader.get(range_total - 1) < target:
+    range_total *= 2
+# 二分模板
+start, end = 0, len(range_total) - 1
+
+while start + 1 < end:
+    mid = (start + end) / 2
+
+    if reader.get(mid) < target:
+        start = mid
+    else:
+        end = mid
+# 寻找第一次出现的位置所以先判断 start
+if reader.get(start) == target:
+    return start
+if reader.get(end) == target:
+    return end
     
-    def binary_search(self, nums, start, end, target):
-        # 递归出口
-        if start > end:
-            return -1
-        # 二分
-        mid = (start + end) / 2
-        # 找到目标
-        if nums[mid] == target:
-            return mid
-        # 目标过大
-        if nums[mid] < target:
-            return self.binary_search(nums, mid + 1, end, target)
-        # 目标过小
-        return self.binary_search(nums, start, mid - 1, target)
-        
+return -1
