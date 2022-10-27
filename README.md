@@ -30,4 +30,4 @@
 
 - [447 · 在大数组中查找](https://github.com/taowuu/tao-lintcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/447%20%C2%B7%20%E5%9C%A8%E5%A4%A7%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE.md)
 
-- [585 · 山脉序列中的最大值]()
+- [585 · 山脉序列中的最大值](https://github.com/taowuu/tao-lintcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/585%20%C2%B7%20%E5%B1%B1%E8%84%89%E5%BA%8F%E5%88%97%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md)
