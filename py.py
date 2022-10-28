@@ -1,4 +1,4 @@
-# 在前 1 个数组中查找
+# 在前 1 个数组中查找1
 range_total = 1
 # 查找范围倍增
 while reader.get(range_total - 1) < target:
