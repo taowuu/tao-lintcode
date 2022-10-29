@@ -36,4 +36,5 @@
 
 - [62 · 搜索旋转排序数组](https://github.com/taowuu/tao-lintcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/62%20%C2%B7%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 
-- [75 · 寻找峰值]()
+- [75 · 寻找峰值](https://github.com/taowuu/tao-lintcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/75%20%C2%B7%20%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.md)
+
