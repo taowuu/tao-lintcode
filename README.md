@@ -38,4 +38,5 @@
 
 - [75 · 寻找峰值](https://github.com/taowuu/tao-lintcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/75%20%C2%B7%20%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.md)
 
-- [183 · 木材加工]()
+- [183 · 木材加工](https://github.com/taowuu/tao-lintcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/183%20%C2%B7%20%E6%9C%A8%E6%9D%90%E5%8A%A0%E5%B7%A5.md)
+
