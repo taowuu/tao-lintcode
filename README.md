@@ -34,4 +34,5 @@
 
 - [159 · 寻找旋转排序数组中的最小值](https://github.com/taowuu/tao-lintcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/159%20%C2%B7%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC.md)
 
-- [62 · 搜索旋转排序数组]()
+- [62 · 搜索旋转排序数组](https://github.com/taowuu/tao-lintcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/62%20%C2%B7%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
+
