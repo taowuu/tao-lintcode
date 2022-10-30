@@ -1,6 +1,6 @@
 # tao-lintcode
 
-## 模板
+## 模板 
 - [二分法模板](https://github.com/taowuu/tao-lintcode/blob/main/%E6%A8%A1%E6%9D%BF/%E4%BA%8C%E5%88%86%E6%B3%95%E6%A8%A1%E6%9D%BF.py)
 
 ## 反向双指针
